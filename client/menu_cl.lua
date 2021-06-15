@@ -23,8 +23,6 @@ RegisterCommand(Config.commandName, function()
 
     elseif Config.badgerPerms then
 
-    elseif Config.acePerms then
-
     elseif Config.debugPerms then
         openAdminMenu()
     end
