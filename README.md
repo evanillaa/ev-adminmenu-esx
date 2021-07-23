@@ -2,8 +2,8 @@
 
 The fixed and re-worked version of the original pe-adminmenu. This version contains multiple fixes to the original and adds news features.
 
-## License
-You are not allowed to resell in any way, nor modified. You are allowed to make Pull Requests. If you wish to do something else you can contact me or our organization.
+# License
+This project does not contain a license, therefore you are not allowed to add one and claim it as yours. You are not allowed to sell this nor re-distribute it. If you want to modify or make an agreement, you can contact me. Pull requests are accepted as long as they do not contain breaking changes. You can read more [here](https://opensource.stackexchange.com/questions/1720/what-can-i-assume-if-a-publicly-published-project-has-no-license) 
 
 ## Getting Started
 
